@@ -1,0 +1,8 @@
+
+ #   the file is called chart.yaml and below is the content
+apiVersion: v2
+name: geo-app
+description: A Helm chart for Kubernetes
+type: application
+version: {chart_version} 
+appVersion: "1.16.0"

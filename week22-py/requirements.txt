@@ -1,0 +1,4 @@
+
+python-jenkins
+requests
+boto3
